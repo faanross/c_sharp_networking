@@ -1,0 +1,15 @@
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\bin\Debug\net8.0\simpleConstructor.exe
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\bin\Debug\net8.0\simpleConstructor.deps.json
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\bin\Debug\net8.0\simpleConstructor.runtimeconfig.json
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\bin\Debug\net8.0\simpleConstructor.dll
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\bin\Debug\net8.0\simpleConstructor.pdb
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.AssemblyInfoInputs.cache
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.AssemblyInfo.cs
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.sourcelink.json
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.dll
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\refint\simpleConstructor.dll
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.pdb
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\simpleConstructor.genruntimeconfig.cache
+C:\Users\Rebuuts\Desktop\c_sharp_networking\constructors\simpleConstructor\obj\Debug\net8.0\ref\simpleConstructor.dll
