@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "simple_ip_address_example_cla/1.0.0": {
+        "runtime": {
+          "simple_ip_address_example_cla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simple_ip_address_example_cla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.AssemblyInfoInputs.cache
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.AssemblyInfo.cs
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.csproj.CoreCompileInputs.cache
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.sourcelink.json
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/bin/Debug/net8.0/simple_ip_address_example
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/bin/Debug/net8.0/simple_ip_address_example.deps.json
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/bin/Debug/net8.0/simple_ip_address_example.runtimeconfig.json
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/bin/Debug/net8.0/simple_ip_address_example.dll
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/bin/Debug/net8.0/simple_ip_address_example.pdb
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.dll
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/refint/simple_ip_address_example.dll
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.pdb
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/simple_ip_address_example.genruntimeconfig.cache
+/Users/faanross/projects/c_sharp_networking/simple_ip_address_example/obj/Debug/net8.0/ref/simple_ip_address_example.dll
