@@ -1,5 +1,6 @@
 // a very simple program that will detect + display localhost
 // host name, canonical name, ip addresses
+// additionally it will also resolve any FQDNs provided as CLA
 // taken + updated from "TCP/IP Sockets in C#" by Makofske et al. (2004)
 
 using System; // For String and Console
